@@ -80,6 +80,8 @@ In this page you can create a user. A username and a password **are required** i
 
 ![Register page](res/register-page.png)
 
+Please note that the **password is not encrypted**. I mean, it's not like i store these passwords in an external database or something, but i think is important to tell you
+
 ### Usernames
 Here you can check if a username is available or not. Let's see how it looks
 
