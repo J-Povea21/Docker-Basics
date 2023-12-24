@@ -88,7 +88,7 @@ Here you can check if a username is available or not. Let's see how it looks
 ## Alerts
 This is how the messages are displayed. The library i'm using is the classic **SweetAlert**
 
-![alerts](res/alerts.mp4)
+![alerts](res/alerts.gif)
 
 
 ## Final message
