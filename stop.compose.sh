@@ -13,6 +13,6 @@ sudo docker rmi -f frontend && sudo docker rmi -f backend &&
 
 echo 'Images removed! Now removing default network...'
 
-sudo docker network rm platzi-project_default &&
+sudo docker network rm docker-basics_default &&
 
 echo 'Network removed. The process has finished.'
